@@ -2,16 +2,14 @@
 //  NewCardForm.swift
 //  quizlet-ish
 //
-//  Created by Kun on 11/10/22.
+//  Created by Kun Woo on 11/24/22.
 //
 
 import SwiftUI
 
 struct NewCardForm: View {
-    
   @State var question: String = ""
   @State var answer: String = ""
-    
   @Environment(\.presentationMode) var presentationMode
   @ObservedObject var cardListViewModel: CardListViewModel
 

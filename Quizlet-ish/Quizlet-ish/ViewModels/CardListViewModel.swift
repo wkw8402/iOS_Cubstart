@@ -2,7 +2,7 @@
 //  CardListViewModel.swift
 //  quizlet-ish
 //
-//  Created by Kun on 11/10/22.
+//  Created by Kun Woo on 11/24/22.
 //
 
 import Foundation
